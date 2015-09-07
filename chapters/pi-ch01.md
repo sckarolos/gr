@@ -140,13 +140,13 @@ O ένας πυλώνας του γνωστικού αντικειμένου ε�
 
 ### Παραδείγματα
 
-{% include examples/ex1_ch1.html %}
+{% include examples/chapter1/ex1_ch1.html %}
 
-{% include examples/ex2_ch1.html %}
+{% include examples/chapter1/ex2_ch1.html %}
 
-{% include examples/ex3_ch1.html %}
+{% include examples/chapter1/ex3_ch1.html %}
 
-{% include examples/ex4_ch1.html %}
+{% include examples/chapter1/ex4_ch1.html %}
 
 ### Σχετική βιβλιογραφία
 
